@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="caper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/caper_jar</output-path>
+    <root id="archive" name="caper.jar">
+      <element id="module-output" name="caper" />
+    </root>
+  </artifact>
+</component>
